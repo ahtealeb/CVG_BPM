@@ -1,6 +1,6 @@
 Source Code is concerned with the Ph.D Thesis
 
-# An Adaptive Framework for Variability Management of Business Process MOdels
+# An Adaptive Framework for Variability Management of Business Process Models
 #### Context-Based Variant Generation of Business Process Models (CVG_BPM)
 
 By: Ahmed Tealeb  
