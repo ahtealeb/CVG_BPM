@@ -5,7 +5,8 @@ Source code associate the Ph.D Thesis
 
 By: Ahmed Tealeb, 
 Supervisors:
-Assistant. Prof. Ahmed Awad
+Assistant. Prof. Ahmed Awad 
+and
 Prof. Dr. Galal Galal-Edeen
 
 CVG_BPM Application is applied on:
