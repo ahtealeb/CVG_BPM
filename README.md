@@ -1,9 +1,9 @@
-Source code associate the Ph.D Thesis
+Source Code is concerned with the Ph.D Thesis
 
 # An Adaptive Framework for Variability Management of Business Process MOdels
 ### Context-Based Variant Generation of Business Process Models (CVG_BPM)
 
-By: Ahmed Tealeb, 
+By: Ahmed Tealeb
 Supervisors:
 Assistant. Prof. Ahmed Awad 
 and
@@ -19,4 +19,4 @@ Steps to run our code:
   2-
   3- Use sample files in "Samples" Folder
 
-This research work is copy righted to: Ahmed Tealeb, Ahmed Awad, Galal Galal-Edeen @2016
+This research work is Copyrighted to: Ahmed Tealeb, Ahmed Awad, Galal Galal-Edeen @2016
